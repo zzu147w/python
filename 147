@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html lang="" xmlns="">
+<head>
+    <meta charset="utf-8" />
+    <title>
+
+    </title>
+    <div id="lg" style="text-align:center;">
+        <img hidefocus="true" class="index-logo-src" src="http://5b0988e595225.cdn.sohucs.com/images/20171031/0134e20395b142e998fe5e034967a35b.gif" width="400" height="350" usemap="#mp">
+        <img hidefocus="true" class="index-logo-srcnew" src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20171023/270595ebd64a4993b73fde136b0f78f0.gif" width=" 300" height=" 350" usemap="#mp">
+        <img hidefocus="true" class="index-logo-src" src="http://img1.juimg.com/150701/330758-150F11A94386.jpg" width="270" height="240" usemap="#mp">
+    </div>
+
+</head>
+<body link style>
+    <div id="wrapper" style="text-align:center;">
+        <h1>生日快乐</h1>
+        <h2>南瓜节快乐</h2>
+        <h3>额 第一次做比较简陋~hhhh</h3>
+        <p>最后无论在哪里，一定要开心哦~</p>
+        <p> ~ </p>
+
+                    <div class="">
+                        <a href="https://www.bilibili.com/video/av61728320?from=search&seid=11433813608944885122">喵</a>
+                        <img hidefocus="ture" class="" src="http://img.mp.itc.cn/upload/20161004/100dd5bda8524787a5c10ab514efafac_th.gif" width=" 270" usemap=" #mp"> 
+                        <a href="https://www.bilibili.com/video/av32746571/?spm_id_from=333.788.videocard.8">喵</a>
+                        <div class="">
+                            <p class=" title">要开心哦</p>
+                            <p class="sub-title">有事呼叫&nbsp;&nbsp;没事也呼叫</p>  
+                        </div>
+                     </div>
+
+    </div>
+
+
+
+
+</body>
+</html>
